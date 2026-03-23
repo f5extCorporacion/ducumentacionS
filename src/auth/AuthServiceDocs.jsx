@@ -1,6 +1,5 @@
 import { useState } from "react";
 
-// ─── Data ────────────────────────────────────────────────────────────────────
 
 const STATS = [
     { label: "Base URL", value: "/auth/*", color: "emerald", mono: true },
